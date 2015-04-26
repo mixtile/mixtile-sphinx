@@ -113,14 +113,14 @@ html_theme = 'haiku'
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-#html_title = None
+html_title = "Mixtile Project documentation"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-#html_logo = None
+html_logo = u'_static/pictures/mixtile-logo.png'
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
@@ -244,7 +244,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', u'Mixtile', u'Mixtile Documentation',
-   u'Mixtile Project', 'demo', 'One line description of project.',
+   u'Mixtile Project', 'Mixtile', 'Mixtile Documentations',
    'Miscellaneous'),
 ]
 
