@@ -168,9 +168,9 @@ Windows 系统准备
 对于 windows 平台，需要将 android-sdk 相关工具加入到 **环境变量** ，同是在 **cmd** 中输入上述指令，如下图：
 
 .. image:: ../_static/pictures/windows_cmd_adb.png
-  :align: left
   :width: 50%
 
+|
 |
 
 Eclipse 调试
