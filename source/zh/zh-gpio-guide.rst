@@ -246,8 +246,8 @@ C语言访问和测试
 
 具体的实现可以参考我们的 jennic-util 中所使用的 gpio 相关代码。
 
-* gpio 参考： https://github.com/pengphei/jennic-utils/blob/master/util_gpio.c
-* 使用示例： https://github.com/pengphei/jennic-utils/blob/master/util_loftq.c
+* gpio 参考： https://github.com/mixtile/jennic-utils/blob/master/util_gpio.c
+* 使用示例： https://github.com/mixtile/jennic-utils/blob/master/util_loftq.c
 
 更多参考
 --------------------------------------------------------------
