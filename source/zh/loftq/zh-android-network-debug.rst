@@ -1,5 +1,5 @@
 .. header::
-  .. image:: ../_static/pictures/mixtile-logo.png
+  .. image:: ../../_static/pictures/mixtile-logo.png
     :align: left
 
 Android adb 网络调试
@@ -97,7 +97,7 @@ Windows 系统准备
 1. 连接 LOFT-Q 串口线, 可以使用 USB 转串口线连接。
 2. 在连接完成后, 使用 **putty** 打开串口，配置方式如下图：
 
-   .. image:: ../_static/pictures/putty_config.png
+   .. image:: ../../_static/pictures/putty_config.png
      :width: 50%
 
    .. tip::   
@@ -106,7 +106,7 @@ Windows 系统准备
 
 3. 配置完成之后，选择 **Open** 打开串口，然后在窗口中按下 **Enter** 回车键，将会显示 Android shell 如下图：
 
-   .. image:: ../_static/pictures/putty_serial.png
+   .. image:: ../../_static/pictures/putty_serial.png
      :width: 50%
 
 4. 启用 ADB 网络协议。依次在交互命令行中输入如下指令：
@@ -120,7 +120,7 @@ Windows 系统准备
 
    具体的操作如下图：
 
-   .. image:: ../_static/pictures/putty_adb_config.png
+   .. image:: ../../_static/pictures/putty_adb_config.png
      :width: 50%
 
 5. 查看当前 LOFT-Q 的网络 IP 地址。
@@ -139,7 +139,7 @@ Windows 系统准备
 
    显示结果如图：
 
-   .. image:: ../_static/pictures/putty_ethernet.png
+   .. image:: ../../_static/pictures/putty_ethernet.png
      :width: 50%
 
 
@@ -167,7 +167,7 @@ Windows 系统准备
 
 对于 windows 平台，需要将 android-sdk 相关工具加入到 **环境变量** ，同是在 **cmd** 中输入上述指令，如下图：
 
-.. image:: ../_static/pictures/windows_cmd_adb.png
+.. image:: ../../_static/pictures/windows_cmd_adb.png
   :width: 50%
 
 |

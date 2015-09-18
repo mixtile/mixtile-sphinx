@@ -1,5 +1,5 @@
 .. header::
-  .. image:: ../_static/pictures/mixtile-logo.png
+  .. image:: ../../_static/pictures/mixtile-logo.png
     :align: left
 
 =============
@@ -14,7 +14,7 @@ LOFT-Q 简介
 |
 |
 
-.. image:: ../_static/pictures/loftq-board.png
+.. image:: ../../_static/pictures/loftq-board.png
   :width: 50%
   :align: center
 

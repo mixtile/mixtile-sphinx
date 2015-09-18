@@ -11,7 +11,7 @@ LOFT-Q 产品说明
 |
 |
 
-.. image:: ../_static/pictures/loftq-board.png
+.. image:: ../../_static/pictures/loftq-board.png
   :width: 60%
   :align: center
 
@@ -54,7 +54,7 @@ LOFT-Q是基于全志A31芯片的迷你单板开源计算机，具有强大的�
 硬件接口
 ''''''''''
 
-.. image:: ../_static/pictures/loftq-interface-map.png
+.. image:: ../../_static/pictures/loftq-interface-map.png
   :width: 100%
   :align: center
 
@@ -93,7 +93,7 @@ A31 芯片架构
 * 集成 MIPI DSI/MIPI CSI 接口 
 * 集成高性能 Audio Codec 
 
-.. image:: ../_static/pictures/loftq-a31-hardware.png
+.. image:: ../../_static/pictures/loftq-a31-hardware.png
   :width: 100%
   :align: center
 
@@ -181,7 +181,7 @@ A31 芯片架构
 板卡尺寸和螺丝分布图
 '''''''''''''''''''''
 
-.. image:: ../_static/pictures/loftq-position-map.png
+.. image:: ../../_static/pictures/loftq-position-map.png
   :width: 100%
   :align: center
 

@@ -1,5 +1,5 @@
 .. header::
-  .. image:: ../_static/pictures/mixtile-logo.png
+  .. image:: ../../_static/pictures/mixtile-logo.png
     :align: left
 
 =========================
