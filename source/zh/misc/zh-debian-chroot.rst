@@ -39,7 +39,7 @@ Debian Arm 硬浮点系统包有两种方式可以获取，包括 *debootstrap* 
 基于 qemu-debootstrap 获取
 """"""""""""""""""""""""""""""""""""""""""""""""""""
 
-.. warn::
+.. warning::
    
    对于 **qemu-debootstrap** 仅适用于 Debian 或者 Ubuntu 系统，以及这两个系统的衍生系统版本。
 
